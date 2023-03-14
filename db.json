@@ -1,0 +1,26 @@
+{
+    "mahasiswa": [
+        {
+            "id": 1,
+            "nama": "dani",
+            "alamat": "pasuruan"
+        },
+        {
+            "id": 2,
+            "nama": "juwa",
+            "alamat": "pasuruan"
+        },
+        {
+            "id": 3,
+            "nama": "alex",
+            "alamat": "pasuruan"
+        }
+    ],
+    "organisasi": [
+        {
+            "id": 1,
+            "nama": "HMTI",
+            "sekretariat": "Gedung AS"
+        }
+    ]
+}
